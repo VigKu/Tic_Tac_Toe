@@ -14,7 +14,7 @@ Your program should just faciliate the game, and NOT play it as a player (that i
 - Announce the result (the Winner or Draw) at the end
 
 ---
-## Tic-Tac-Toe Game - With AI
+## Tic-Tac-Toe Game - With AI (using MinMax)
 Write a program so that a User may play the `Tic-Tac-Toe` game (https://en.wikipedia.org/wiki/Tic-tac-toe) against the Computer.      
 Your program should facilitate and play the game as a player, that is, you are writing basic AI logic. Your program needs to:     
 
